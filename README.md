@@ -32,4 +32,4 @@ npm start
 - GitHub: https://github.com/yogeshPatilgowda
 - LinkedIn: https://www.linkedin.com/in/yogesh-patil-1530b2331/
 
-⭐ If you like this project, consider giving it a star!
+⭐ If you like this project dont forget, consider giving it a star!
